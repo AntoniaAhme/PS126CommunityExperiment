@@ -1,0 +1,10 @@
+Sample	Temperature	Replicate	Arctic-temperate	Arctic	Cosmopolitan
+tfin-2-a	2	a	80138	8519	2121
+tfin-2-b	2	b	92097	9987	3352
+tfin-2-c	2	c	79661	8863	1929
+tfin-6-a	6	a	75506	13960	3483
+tfin-6-b	6	b	79052	15671	2963
+tfin-6-c	6	c	62295	10000	2373
+tfin-9-a	9	a	36882	3843	6337
+tfin-9-b	9	b	53230	6826	6910
+tfin-9-c	9	c	23276	2387	2760

@@ -1,0 +1,8 @@
+Thermal_niche	t0-0-a	t0-0-b	t0-0-c	tfin-2-a	tfin-2-b	tfin-2-c	tfin-6-a	tfin-6-b	tfin-6-c	tfin-9-a	tfin-9-b	tfin-9-c
+timepoint	t0	t0	t0	tfin	tfin	tfin	tfin	tfin	tfin	tfin	tfin	tfin
+temperature	0	0	0	2	2	2	6	6	6	9	9	9
+replicate	a	b	c	a	b	c	a	b	c	a	b	c
+Arctic-temperate	45798	32453	55235	80138	92097	79661	75506	79052	62295	36882	53230	23276
+Arctic	22101	16226	19212	8519	9987	8863	13960	15671	10000	3843	6826	2387
+Cosmopolitan	4070	3176	3911	2121	3352	1929	3483	2963	2373	6337	6910	2760
+uncategorized	1763	1146	2054	2180	1783	2209	2272	2189	2216	1669	2735	1130
