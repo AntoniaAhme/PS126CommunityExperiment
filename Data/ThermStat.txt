@@ -1,0 +1,10 @@
+Sample	Temperature	Replicate	Arctic	Arctic-temperate	Cosmopolitan	Uncat
+tfin-2-a	2	a	2707	25477	676	693
+tfin-2-b	2	b	2755	25380	926	492
+tfin-2-c	2	c	2825	25408	615	705
+tfin-6-a	6	a	4333	23434	1081	705
+tfin-6-b	6	b	4636	23392	876	649
+tfin-6-c	6	c	3846	23943	913	851
+tfin-9-a	9	a	2331	22367	3843	1012
+tfin-9-b	9	b	2894	22572	2929	1158
+tfin-9-c	9	c	2387	23276	2760	1130

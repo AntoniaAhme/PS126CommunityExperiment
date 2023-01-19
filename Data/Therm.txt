@@ -1,0 +1,8 @@
+Therm	tfin-2-a	tfin-2-b	tfin-2-c	tfin-6-a	tfin-6-b	tfin-6-c	tfin-9-a	tfin-9-b	tfin-9-c
+timepoint	tfin	tfin	tfin	tfin	tfin	tfin	tfin	tfin	tfin
+temperature	2	2	2	6	6	6	9	9	9
+replicate	a	b	c	a	b	c	a	b	c
+Arctic	2707	2755	2825	4333	4636	3846	2331	2894	2387
+Arctic-temperate	25477	25380	25408	23434	23392	23943	22367	22572	23276
+cosmopolitan	676	926	615	1081	876	913	3843	2929	2760
+uncategorized	693	492	705	705	649	851	1012	1158	1130

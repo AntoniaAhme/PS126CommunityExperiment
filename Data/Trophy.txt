@@ -1,0 +1,9 @@
+Trophy	tfin-2-a	tfin-2-b	tfin-2-c	tfin-6-a	tfin-6-b	tfin-6-c	tfin-9-a	tfin-9-b	tfin-9-c
+timepoint	tfin	tfin	tfin	tfin	tfin	tfin	tfin	tfin	tfin
+temperature	2	2	2	6	6	6	9	9	9
+replicate	a	b	c	a	b	c	a	b	c
+Heterotroph	23063	24230	22710	20948	19742	20964	9282	10129	4733
+Phototroph	4723	3611	5028	6428	7691	6455	17340	15769	21998
+Parasitic	64	66	65	170	155	163	360	719	351
+uncategorized	1030	975	1085	1395	1315	1529	2291	2655	2134
+Mixotroph	673	671	665	612	650	442	280	281	337

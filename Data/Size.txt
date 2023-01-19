@@ -1,0 +1,8 @@
+Size	tfin-2-a	tfin-2-b	tfin-2-c	tfin-6-a	tfin-6-b	tfin-6-c	tfin-9-a	tfin-9-b	tfin-9-c
+timepoint	tfin	tfin	tfin	tfin	tfin	tfin	tfin	tfin	tfin
+temperature	2	2	2	6	6	6	9	9	9
+replicate	a	b	c	a	b	c	a	b	c
+uncategorized	4871	4917	4710	6601	6257	5196	3839	4742	3297
+Nanoplankton	4696	3749	4952	5483	6551	5704	14439	11932	11264
+Microplankton	19391	20243	19063	16329	15481	17733	11268	12838	14986
+Picoplankton	595	644	828	1140	1264	920	7	41	6

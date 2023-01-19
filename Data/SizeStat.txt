@@ -1,0 +1,10 @@
+Sample	Temperature	Replicate	Uncat	Nano	Micro	Pico
+tfin-2-a	2	a	4871	4696	19391	595
+tfin-2-b	2	b	4917	3749	20243	644
+tfin-2-c	2	c	4710	4952	19063	828
+tfin-6-a	6	a	6601	5483	16329	1140
+tfin-6-b	6	b	6257	6551	15481	1264
+tfin-6-c	6	c	5196	5704	17733	920
+tfin-9-a	9	a	3839	14439	11268	7
+tfin-9-b	9	b	4742	11932	12838	41
+tfin-9-c	9	c	3297	11264	14986	6
