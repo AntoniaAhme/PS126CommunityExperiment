@@ -187,6 +187,9 @@ sam$uni_ID <- as.factor(sam$uni_ID)
 samples = sample_data(sam)
 
 ps_raw <- phyloseq(OTU, TAX, samples)
+              
+# Check rarefaction curve for justifying sampling depths
+rarecurve(t(otu_table(ps_raw)), step=50, cex=0.5) # looks fine
 
 ## Scaling with ranked subsampling (srs)
 # All samples will be scaled to sample with lowest sequencing depth
